@@ -19,3 +19,7 @@ img {
     border-radius: 50%;
     border: solid red;
 }
+
+.certer {
+    text-align: center;
+}
