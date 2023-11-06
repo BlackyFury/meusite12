@@ -14,9 +14,9 @@ a {
     color: white;
 }
 img {
-    width: 250px;
-    height: 250px;
-    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    border-radius: 20%;
     border: solid red;
 }
 
