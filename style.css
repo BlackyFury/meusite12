@@ -13,6 +13,7 @@ ul {
 }
 a {
     color: rgb(226, 17, 17);
+    text-decoration: none;
 }
 img {
     width: 250px;
